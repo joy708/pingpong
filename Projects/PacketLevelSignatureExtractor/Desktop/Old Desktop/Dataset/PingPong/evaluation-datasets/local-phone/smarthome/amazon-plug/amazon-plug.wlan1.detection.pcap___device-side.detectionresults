@@ -1,0 +1,6 @@
+# Detection results for:
+# - inputPcapFile: Desktop/Old Desktop/Dataset/PingPong/evaluation-datasets/local-phone//smarthome/amazon-plug/wlan1/amazon_on_off_10.pcap
+# - onAnalysisFile: Desktop/Old Desktop/Dataset/PingPong/evaluation-datasets/local-phone//standalone/amazon-plug/analyses/amazon-plug-onClusters-device-side.cls
+# - offAnalysisFile: Desktop/Old Desktop/Dataset/PingPong/evaluation-datasets/local-phone//standalone/amazon-plug/analyses/amazon-plug-offClusters-device-side.cls
+# - onSignatureFile: Desktop/Old Desktop/Dataset/PingPong/evaluation-datasets/local-phone//standalone/amazon-plug/signatures/amazon-plug-onSignature-device-side.sig
+# - offSignatureFile: Desktop/Old Desktop/Dataset/PingPong/evaluation-datasets/local-phone//standalone/amazon-plug/signatures/amazon-plug-offSignature-device-side.sig
